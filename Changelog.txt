@@ -2,4 +2,4 @@
 "5a0a640 : X00TD: prop: Disable default color mode"
 "78dfce6 : X00T: rootdir: Remove deprecated code"
 "4081022 : X00TD: add camera-daemon cpuset"
-"5002e53 : X00TD: Drop the creation of deprecated system_data folders"
+"5002e53 : X00TD: Drop the creation of deprecated system_data folders"Build took 0 hrs
