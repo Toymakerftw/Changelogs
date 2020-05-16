@@ -98,6 +98,3 @@
 "1004041 : X00TD: Nuke QRD_Headset_cal.acdb"
 "b0fa7bb : X00TD: Increase headset audio volume a bit"
 "8aa8828 : X00TD: Bootleg bring-up"
-
-
-Build took 0 hrs
