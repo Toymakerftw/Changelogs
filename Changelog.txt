@@ -1,3 +1,4 @@
+"c94fa86 : X00T: Update Bluetooth from Stock Android 10"
 "1b7b56b : X00TD: proprietary: Updates from LA.UM.8.2.r1-06500-sdm660.0"
 "1c9234e : X00TD: overlay:Show rsrp signal level"
 "b6ee15e : X00TD: Update fingerprint blobs from 424 release"
@@ -97,4 +98,3 @@
 "c057c0a : X00TD: doze: Move Utils.checkDozeService in an handler"
 "10d0ec4 : X00TD: doze: Fix dark theme issues"
 "0cfb2ed : X00TD: Doze: Clean up proguard flags"
-"f819fc4 : X00TD: Doze: Migrate to androidx"
